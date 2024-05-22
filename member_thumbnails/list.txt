@@ -12,7 +12,6 @@ hoangtien.jpg
 hongphuc.jpg
 huyentrang.jpg
 khanhky.jpg
-list.txt
 minhkhiet.jpg
 minhquan.jpg
 minhtri.jpg
